@@ -43,7 +43,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/fossasia/badgemagic-app.git
-        commit: 2408aae3ece720d57b697ab2374013f56b801b8e
+        commit: 90b4b8d199499329833bf87792045fc46cc02211
       - generated/sources/pubspec.json
     modules:
-      - generated/modules/flutter-sdk-3.47.4.json
+      - generated/modules/flutter-sdk-3.50.0.json
